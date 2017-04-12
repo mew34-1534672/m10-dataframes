@@ -1,4 +1,4 @@
-# Exercise 5: Gates Foundation Educational Grants
+# Exercise 4: Gates Foundation Educational Grants
 
 # Read data into a variable called `grants` using the `read.csv` function
 grants <- read.csv('/Users/MaryElizabeth/Desktop/INFO 201/m10-dataframes/exercise-4/data/gates_money.csv', stringsAsFactors = FALSE)
